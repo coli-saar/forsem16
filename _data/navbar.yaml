@@ -1,11 +1,5 @@
 navbar:
-  - section: Allgemein
+  - section: General
     entries:
       - title: Index
         url: index.html
-      - title: Zeitplan
-        url: schedule.html
-      - title: Literatur
-        url: literature.html
-  - section: Übungen
-    entries:
