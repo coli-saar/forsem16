@@ -1,0 +1,98 @@
+lectures:
+  - date: 2015-04-14
+    title: (fällt aus, AK nicht da)
+    type: noclass
+    slides: 
+    reading:
+  - date: 2015-04-21
+    title: Einführung
+    assignment: Ü1
+    assignment_url: assignments/gramf-u1.pdf
+    type:
+    slides: lectures/01-Einfuehrung.pdf
+    reading:
+    links:
+    - text: Shieber (1985)
+      url: http://dash.harvard.edu/bitstream/handle/1/2026618/Shieber_EvidenceAgainst.pdf?sequence=2&origin=publicationDetail
+    - text: TuLiPA
+      url: https://sourcesup.cru.fr/tulipa/intro.html
+    - text: tulipac
+      url: https://code.google.com/p/tulipac/
+    
+  - date: 2015-04-28
+    title: Tree-adjoining grammar (TAG)
+    type:
+    slides: lectures/02-TAG.pdf
+    reading:
+  - date: 2015-05-05
+    title: TAG II - Expressivität, Parsing, W.modell
+    type:
+    slides: lectures/03-TAG-2.pdf
+    reading:
+  - date: 2015-05-12
+    title: Kombinatorische Kategorialgrammatik (CCG)
+    assignment: Ü2; Abgabe Ü1
+    assignment_url: assignments/gramf-u2.pdf
+    type:
+    slides: lectures/04-CCG.pdf
+    reading:
+    links:
+    - text: OpenCCG
+      url: http://openccg.sourceforge.net/
+  - date: 2015-05-19
+    title: Besprechung Ü1; Multimodale CCG
+    type:
+    slides: lectures/05-CCG-2.pdf
+    reading:
+  - date: 2015-05-26
+    title: CCG III - Semantikkonstruktion, Parsing, W.modell
+    type:
+    slides: lectures/06-CCG-3.pdf
+    reading:
+  - date: 2015-06-02
+    title: Schwach kontextsensitive Grammatikformalismen
+    assignment: Ü3; Abgabe Ü2
+    assignment_url: assignments/gramf-u3.pdf
+    type:
+    slides: lectures/07-MCS.pdf
+    reading:
+  - date: 2015-06-09
+    title: Besprechung Ü2; Reguläre Dependenzgrammatiken
+    type:
+    slides: lectures/08-MCS-2.pdf
+    reading:
+  - date: 2015-06-16
+    title: Starke Expressivität und höhere Blockgrade
+    type:
+    slides: lectures/09-MCS-3.pdf
+    reading:
+  - date: 2015-06-23
+    title: Lexikalisch-funktionale Grammatik (LFG)
+    assignment: Ü4; Abgabe Ü3
+    type:
+    slides: lectures/10-LFG-1.pdf
+    assignment_url: assignments/gramf-u4.pdf
+    reading:
+  - date: 2015-06-30
+    title: Besprechung Ü3; LFG II - Expressivität, Parsing, W.modell
+    type:
+    slides: lectures/11-LFG-2.pdf
+    reading:
+  - date: 2015-07-07
+    title: Head-driven phrase structure grammar (HPSG)
+    assignment: Ü5; Abgabe Ü4
+    type:
+    slides: lectures/12-HPSG-1.pdf
+    assignment_url: assignments/gramf-u5.pdf
+    reading:
+  - date: 2015-07-14
+    title: Besprechung Ü4; HPSG II - Fernabhängigkeiten, Expressivität
+    assignment: Abgabe Ü5
+    type:
+    slides:  lectures/13-HPSG-2.pdf
+    reading:
+  - date: 2015-07-21
+    title: Besprechung Ü5; HPSG III - Parsing
+    type:
+    slides: lectures/14-HPSG-3.pdf
+    reading:
