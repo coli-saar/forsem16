@@ -10,7 +10,7 @@ Winter Semester 2016/17
 [Prof. Dr. Alexander Koller](http://www.coli.uni-saarland.de/~koller/)  
 Tue 12-14; Meeting Room 2.11
 
-**Start: Tuesday, October 25**
+**Start: Tuesday, November 8**
 
 ---
 
